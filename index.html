@@ -30,15 +30,6 @@
     <meta name="msapplication-TileImage" content="/images/favicons/mstile-144x144.png">
     <meta name="msapplication-config" content="/images/favicons/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
-
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/jquery.dropotron.min.js"></script>
-    <script src="assets/js/jquery.scrollgress.min.js"></script>
-    <script src="assets/js/skel.min.js"></script>
-    <script src="assets/js/util.js"></script>
-    <script src="assets/js/main.js"></script>
-    <script src="assets/js/konami.js"></script>
-    <script type="text/javascript" src="assets/js/jquery.leanModal.min.js"></script>
   </head>
   <body class="landing">
     <div id="page-wrapper">
@@ -79,7 +70,7 @@
           <img class="main-image" src="images/main.png" alt="Younility - make work simple" />
 
           <div class="contact container">
-            <form method="get" action="https://app.younility.com/users/sign_up" class="sign-up-form">
+            <form name="sign-up-form" method="get" action="https://app.younility.com/users/sign_up">
               <div class="row uniform 50%">
                 <div class="8u 12u(mobilep)">
                   <input type="email" name="query" id="query" value="" placeholder="Enter your business email" />
@@ -205,13 +196,13 @@
           </div>
 
           <div class="contact container">
-            <form method="get" action="https://app.younility.com/users/sign_up" class="sign-up-form">
+            <form name="sign-up-form" method="get" action="https://app.younility.com/users/sign_up">
               <div class="row uniform 50%">
                 <div class="8u 12u(mobilep)">
                   <input type="email" name="query" id="query" value="" placeholder="Enter your business email" />
                 </div>
                 <div class="4u 12u(mobilep)">
-                  <input type="submit" value="Get started" class="special fit icon fa-arrow-circle-right" />
+                  <input type="submit" value="Get started for free" class="special fit icon fa-arrow-circle-right" />
                 </div>
               </div>
             </form>
@@ -296,6 +287,15 @@
     </div>
 
     <!-- Scripts -->
+      <script src="assets/js/jquery.min.js"></script>
+      <script src="assets/js/jquery.dropotron.min.js"></script>
+      <script src="assets/js/jquery.scrollgress.min.js"></script>
+      <script src="assets/js/skel.min.js"></script>
+      <script src="assets/js/util.js"></script>
+      <script src="assets/js/main.js"></script>
+      <script src="assets/js/konami.js"></script>
+      <script type="text/javascript" src="assets/js/jquery.leanModal.min.js"></script>
+
       <script>
         var easter_egg = new Konami();
         easter_egg.code = function() {

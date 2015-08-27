@@ -198,6 +198,10 @@
     margin-bottom: 20px;
   }
 
+  .no-border {
+    border: transparent;
+  }
+
   .logo-image {
     width: 164px;
     margin: 4px 0 0 10px;

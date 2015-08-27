@@ -1,4 +1,4 @@
-$(".sign-up-form").submit(function(e){
+$("form[name=sign-up-form] input[type=submit]").click(function(e){
   var email
   var url
 
