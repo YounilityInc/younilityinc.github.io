@@ -1347,28 +1347,28 @@
   }
 
   #main > header,
-  #full-page > header {
+  .full-page > header {
     text-align: center;
     margin: 0 0 3em 0;
   }
 
   #main > header h2,
-  #full-page > header h2 {
+  .full-page > header h2 {
     font-size: 2.75em;
     margin: 0;
   }
 
   #main h1,
-  #full-page h1,
+  .full-page h1,
   #main h3,
-  #full-page h3,
+  .full-page h3,
   #main h4,
-  #full-page h4 {
+  .full-page h4 {
     font-weight: 400;
   }
 
   #main > header p,
-  #full-page > header p {
+  .full-page > header p {
     border-top: solid 2px #e5e5e5;
     color: #777;
     display: inline-block;
@@ -1431,7 +1431,7 @@
   }
 
 /* Full Page */
-  #full-page {
+  .full-page {
     padding: 25px 0;
     text-align: center;
   }

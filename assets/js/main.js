@@ -2,7 +2,7 @@ $("form[name=sign-up-form] input[type=submit]").click(function(e){
   var email
   var url
 
-  email = $("#query").val()
+  email = $(".query").val()
   url = "https://app.younility.com/users/sign_up?email=" + email
   window.location.href = url;
   return false;
