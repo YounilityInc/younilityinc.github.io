@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow:
+Disallow: /pricing
+Disallow: /about-us
+Disallow: /features
+
+Sitemap: http://younility.com/sitemap.xml
