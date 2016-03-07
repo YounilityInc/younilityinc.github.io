@@ -224,7 +224,7 @@
   }
 
   .green {
-    background-color: #008a32 !important;
+    background-color: #439d46 !important;
   }
 
   .app-bottom {
@@ -1115,7 +1115,7 @@
   }
 
   #header {
-    background: #444;
+    background: #222934;
     color: #bbb;
     cursor: default;
     height: 4em;
@@ -1387,13 +1387,18 @@
 
 /* Footer */
   #footer {
-    background: #444;
+    background: #222934;
     padding: 2em 0 1em 0;
     text-align: center;
+    color: rgba(259,259,259,0.7);
   }
 
   #footer a {
     color: inherit;
+  }
+
+  #footer h4 {
+    color: rgba(259,259,259,0.7);
   }
 
   #footer .icons a {
