@@ -497,7 +497,7 @@
     -webkit-appearance: none;
     -ms-appearance: none;
     appearance: none;
-    background: #f8f8f8;
+    background: #fff;
     border-radius: 6px;
     border: solid 1px #e5e5e5;
     display: block;
@@ -1041,14 +1041,14 @@
   input[type="reset"].special:hover,
   input[type="button"].special:hover,
   .button.special:hover {
-    background-color: #ecaa96;
+    background-color: #d95d0d;
   }
 
   input[type="submit"].special:active,
   input[type="reset"].special:active,
   input[type="button"].special:active,
   .button.special:active {
-    background-color: #e4886a;
+    background-color: #d95d0d;
   }
 
   input[type="submit"].disabled, input[type="submit"]:disabled,

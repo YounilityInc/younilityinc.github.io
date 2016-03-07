@@ -202,7 +202,7 @@
     }
 
     #navButton .toggle:before {
-      background: rgba(192, 192, 192, 0.75);
+      background: #222934;
       border-radius: 6px;
       color: #fff;
       content: '\f0c9';
@@ -238,7 +238,7 @@
       top: 0;
       width: 275px;
       z-index: 10002;
-      background: #2b2b2b;
+      background: #222934;
       color: #bbb;
     }
 
