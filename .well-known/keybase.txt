@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/younility
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://younility.com
+  * I am younility (https://keybase.io/younility) on keybase.
+  * I have a public key ASBquO5XKW8xXCijqxKfHYxsaVPuX7QYAuhEiGL0KzYy_wo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01206ab8ee57296f315c28a3ab129f1d8c6c6953ee5fb41802e8448862f42b3632ff0a",
+            "host": "keybase.io",
+            "kid": "01206ab8ee57296f315c28a3ab129f1d8c6c6953ee5fb41802e8448862f42b3632ff0a",
+            "uid": "71735d7812e25df3a26a9dd205442019",
+            "username": "younility"
+        },
+        "service": {
+            "hostname": "younility.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1486395137,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1486394916,
+        "hash": "247e2000565a4117611b15ff99164f5f102d6e50f4a3d4107feb385ab8c512ae6cc421f635a4e4e28c34e9da0d15f5475e076de4612f5b47c17cad78afcf2eb6",
+        "seqno": 838174
+    },
+    "prev": "c00260aa227ff697c2cf44b183e5c823a0cfeb3afa9de2e2fc3c433214e4d125",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgarjuVylvMVwoo6sSnx2MbGlT7l+0GALoRIhi9Cs2Mv8Kp3BheWxvYWTFAvV7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNmFiOGVlNTcyOTZmMzE1YzI4YTNhYjEyOWYxZDhjNmM2OTUzZWU1ZmI0MTgwMmU4NDQ4ODYyZjQyYjM2MzJmZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNmFiOGVlNTcyOTZmMzE1YzI4YTNhYjEyOWYxZDhjNmM2OTUzZWU1ZmI0MTgwMmU4NDQ4ODYyZjQyYjM2MzJmZjBhIiwidWlkIjoiNzE3MzVkNzgxMmUyNWRmM2EyNmE5ZGQyMDU0NDIwMTkiLCJ1c2VybmFtZSI6InlvdW5pbGl0eSJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoieW91bmlsaXR5LmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTgifSwiY3RpbWUiOjE0ODYzOTUxMzcsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ4NjM5NDkxNiwiaGFzaCI6IjI0N2UyMDAwNTY1YTQxMTc2MTFiMTVmZjk5MTY0ZjVmMTAyZDZlNTBmNGEzZDQxMDdmZWIzODVhYjhjNTEyYWU2Y2M0MjFmNjM1YTRlNGUyOGMzNGU5ZGEwZDE1ZjU0NzVlMDc2ZGU0NjEyZjViNDdjMTdjYWQ3OGFmY2YyZWI2Iiwic2Vxbm8iOjgzODE3NH0sInByZXYiOiJjMDAyNjBhYTIyN2ZmNjk3YzJjZjQ0YjE4M2U1YzgyM2EwY2ZlYjNhZmE5ZGUyZTJmYzNjNDMzMjE0ZTRkMTI1Iiwic2Vxbm8iOjYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAc3Lr3cvX6OXOp0ONGvne+IKqSkxs+BK0rsjdmfO1CqweGPHVSO7oEfDquQOG7R7oN68YO32WAmtQaK1YCuFPAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMOUNU2QtMjG2lH82zVVe9yVrvc/Qms0jn0qLyReYeFBo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/younility
+
+==================================================================
