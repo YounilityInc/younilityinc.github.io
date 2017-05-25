@@ -360,6 +360,10 @@
   }
 
   .main-image {
+    margin-bottom: 15px;
+  }
+
+  .main-image-app {
     width: 900px;
     margin-bottom: 15px;
     padding-right: 71px;
